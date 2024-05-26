@@ -11,3 +11,13 @@ Using [LevelRanks API](https://github.com/ABKAM2023/CS2-LevelsRanks-Core) for da
 
 - [LevelRanks Core](https://github.com/ABKAM2023/CS2-LevelsRanks-Core)
 - [FakeRanks](https://github.com/Cruze03/FakeRanks-RevealAll)
+
+## Config
+
+Will be created automaticly in the plugin directory
+
+###
+
+- 0: No Ranks
+- 1: Premier ELO
+- 2: Competitive Ranks

@@ -3,6 +3,9 @@
 > [!CAUTION]
 > This plugin does not reveal actual MM Ranks of players.
 
+> [!CAUTION]
+> This plugin does not adhere to Steam guidelines. Therefore, I do not recommend using it on your server, as it may risk being token banned if Steam decides to enforce such measures again.
+
 ## A plugin that reveals ranks of all players in server for player who presses "tab"
 
 Using [LevelRanks API](https://github.com/ABKAM2023/CS2-LevelsRanks-Core) for data

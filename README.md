@@ -5,7 +5,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/Ravid-A/LevelRanks_FakeRanks?style=for-the-badge)
 ![GitHub](https://img.shields.io/github/license/Ravid-A/LevelRanks_FakeRanks?style=for-the-badge)
 ![GitHub all releases](https://img.shields.io/github/downloads/Ravid-A/LevelRanks_FakeRanks/total?style=for-the-badge)
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Ravid-A/LevelRanks_FakeRanks/dev?style=for-the-badge)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Ravid-A/LevelRanks_FakeRanks/main?style=for-the-badge)
 
 > [!CAUTION]
 > This plugin does not reveal actual MM Ranks of players.

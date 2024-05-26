@@ -21,3 +21,9 @@ Will be created automaticly in the plugin directory
 - 0: No Ranks
 - 1: Premier ELO
 - 2: Competitive Ranks
+
+## Contributing
+
+Contributions to the LevelRanks_FakeRanks project are welcome. If you find any issues or have any suggestions, please open an issue or submit a pull request.
+
+[![Github All Releases](https://img.shields.io/github/downloads/Ravid-A/LevelRanks_FakeRanks/total.svg)]()

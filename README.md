@@ -16,7 +16,7 @@ Using [LevelRanks API](https://github.com/ABKAM2023/CS2-LevelsRanks-Core) for da
 
 Will be created automaticly in the plugin directory
 
-###
+### Types
 
 - 0: No Ranks
 - 1: Premier ELO
